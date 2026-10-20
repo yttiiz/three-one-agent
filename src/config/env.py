@@ -7,7 +7,5 @@ class Env(BaseSettings):
 
     google_api_key: str = ""
     google_project_id: str = ""
-    llm_model: str = ""
-
 
 env_variables = Env()
