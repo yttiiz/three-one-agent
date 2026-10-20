@@ -32,7 +32,7 @@ indent-style = "space"
 
 [tool.ruff.lint.isort]
 lines-after-imports = 2
-lines-between-types = 0
+lines-between-types = 1
 no-sections = true
 
 [tool.poe.tasks]
