@@ -12,8 +12,5 @@ wheels/
 # Environments variables
 .env
 
-# IDE settings
-.zed
-
 # memory
 src/memory/*
