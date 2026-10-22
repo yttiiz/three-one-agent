@@ -3,7 +3,7 @@
   <div>&nbsp;</div>
 </div>
 
-# Three One Agent
+# 
 
 Un agent conversationnel interactif en ligne de commande propulsé par les modèles **Google Gemini** (via le SDK `google-genai`), doté d'une mémoire persistante par utilisateur et d'un accès au web en temps réel.
 
@@ -93,8 +93,6 @@ Lancez l'agent avec `poe`:
 
 ```bash
 poe main
-
-# Avec poe
 ```
 
 Exemple d'échange dans la console :
