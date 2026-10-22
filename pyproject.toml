@@ -1,5 +1,5 @@
 [project]
-name = "ai-agent"
+name = "three-one-agent"
 version = "0.1.0"
 description = "AI agent based on Gemini model"
 readme = "README.md"

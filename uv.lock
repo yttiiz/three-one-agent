@@ -7,7 +7,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "ai-agent"
+name = "three-one-agent"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
