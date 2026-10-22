@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="three_one_logo.svg" width="200" height="auto" alt="three one logo" />
-  <div>&nbsp;</div>
-</div>
-
-# 
+# ![logo](./three_one_logo.svg)
 
 Un agent conversationnel interactif en ligne de commande propulsé par les modèles **Google Gemini** (via le SDK `google-genai`), doté d'une mémoire persistante par utilisateur et d'un accès au web en temps réel.
 
