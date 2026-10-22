@@ -6,6 +6,8 @@ class Env(BaseSettings):
     model_config: ClassVar[SettingsConfigDict] = SettingsConfigDict(env_file=".env")
 
     google_api_key: str = ""
-    google_project_id: str = ""
+    tavily_api_key: str = ""
+    memory_path: str = ""
+
 
 env_variables = Env()
