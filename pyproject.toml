@@ -1,12 +1,13 @@
 [project]
-name = "ai-agents"
+name = "ai-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI agent based on Gemini model"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "google-genai>=2.31.0",
     "pydantic-settings>=2.16.0",
+    "tavily>=1.1.0",
 ]
 
 [dependency-groups]
@@ -29,6 +30,7 @@ ignore = []
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
+docstring-code-format = true
 
 [tool.ruff.lint.isort]
 lines-after-imports = 2
